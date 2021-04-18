@@ -1,6 +1,6 @@
 # 🤖 Stock Price Prediction
 
-Just a tiny terminal app using the yfinance api to predict the stock prices!
+• Just a tiny terminal app using the yfinance api to predict the stock prices •
 
 ## 🔨 Setup
 
